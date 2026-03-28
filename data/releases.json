@@ -1,0 +1,166 @@
+{
+  "releases": [
+    {
+      "title": "3NT3R",
+      "slug": "3nt3r",
+      "artist": "adminGRL",
+      "date": "2026-03-05",
+      "type": "SINGLE",
+      "cover": "music/adminGRL/3NT3R/3nt3rcover.jpg",
+      "page": "music/adminGRL/3NT3R/index.html",
+      "alias": "adminGRL",
+      "tags": [],
+      "genres": [],
+      "latestOrder": 2,
+      "listenUrl": "https://www.youtube.com/watch?v=tJLOjle91DE",
+      "downloadUrl": "https://drive.google.com/file/d/1ab9WnvFHSTr83ihEQNpuEDMxMwez9lue/view?usp=sharing",
+      "tracks": [
+        {
+          "name": "3NT3R",
+          "duration": "2:08"
+        }
+      ]
+    },
+    {
+      "title": "ELECTRONICA",
+      "slug": "electronica",
+      "artist": "ALTERNATIVE ZERO",
+      "date": "2026-02-19",
+      "type": "SINGLE",
+      "cover": "music/ALTERNATIVE zero/electronica/electronica.jpg",
+      "page": "music/ALTERNATIVE ZERO/ELECTRONICA/index.html",
+      "alias": "ALTERNATIVE ZERO",
+      "tags": [],
+      "genres": [],
+      "latestOrder": 6,
+      "listenUrl": "https://www.youtube.com/watch?v=WViF6_tocPI",
+      "downloadUrl": "https://drive.google.com/file/d/1Hvcn9oC7Gzt0gyqduEmQWxbMcsqhO4kk/view?usp=sharing",
+      "tracks": [
+        {
+          "name": "ELECTRONICA",
+          "duration": "1:47"
+        }
+      ]
+    },
+    {
+      "title": "FRAGMENTATION",
+      "slug": "fragmentation",
+      "artist": "ALTERNATIVE ZERO",
+      "date": "2026-02-19",
+      "type": "SINGLE",
+      "cover": "music/ALTERNATIVE zero/fragmentation/fragmentation.png",
+      "page": "music/ALTERNATIVE ZERO/FRAGMENTATION/index.html",
+      "alias": "ALTERNATIVE ZERO",
+      "tags": [],
+      "genres": [],
+      "latestOrder": 5,
+      "listenUrl": "https://www.youtube.com/watch?v=WViF6_tocPI",
+      "downloadUrl": "https://drive.google.com/file/d/12pSaK9306q0DsOKpKl0pkdVwFhlsjcnh/view?usp=sharing",
+      "tracks": [
+        {
+          "name": "FRAGMENTATION",
+          "duration": "1:52"
+        }
+      ]
+    },
+    {
+      "title": "ZERO DEBUT",
+      "slug": "zero-debut",
+      "artist": "ALTERNATIVE ZERO",
+      "date": "2026-03-03",
+      "type": "EP",
+      "cover": "music/ALTERNATIVE ZERO/ZERO DEBUT/ZERO DEBUT FINAL.jpg",
+      "page": "music/ALTERNATIVE ZERO/ZERO DEBUT/index.html",
+      "alias": "ALTERNATIVE ZERO",
+      "tags": [],
+      "genres": [],
+      "latestOrder": 3,
+      "listenUrl": "https://youtube.com/playlist?list=PLw5jf0DKWcGG-PEqujkC1562RVgEsIc5r&si=vf6pHKvif3PgSSol",
+      "downloadUrl": "https://drive.google.com/drive/folders/10Aedl7A9Us7vPsA5_nZYIC7ivGTz-6Sk?usp=sharing",
+      "tracks": [
+        {
+          "name": "NANANA",
+          "duration": "2:04"
+        },
+        {
+          "name": "SCADOODLE",
+          "duration": "2:05"
+        },
+        {
+          "name": "BANNED FOREVER CONTINUE ?",
+          "duration": "2:28"
+        },
+        {
+          "name": "OVERDRIVE",
+          "duration": "2:48"
+        }
+      ]
+    },
+    {
+      "title": "All That's Left Is to Know the Name",
+      "slug": "all-thats-left-is-to-know-the-name",
+      "artist": "AMODEYA",
+      "date": "2026-03-01",
+      "type": "SINGLE",
+      "cover": "music/AMODEYA/All-That-s-Left-Is-to-Know-the-Name/COVER.png",
+      "page": "music/AMODEYA/All-That-s-Left-Is-to-Know-the-Name/index.html",
+      "alias": "AMODEYA",
+      "tags": [],
+      "genres": [],
+      "latestOrder": 4,
+      "listenUrl": "https://www.youtube.com/watch?v=pr67KQWYqBU",
+      "downloadUrl": "https://drive.google.com/file/d/1HUbtxoXsMmvRBCd6dGowMkXia0PIXRLT/view?usp=sharing",
+      "tracks": [
+        {
+          "name": "All That's Left Is to Know the Name",
+          "duration": "2:32"
+        }
+      ]
+    },
+    {
+      "title": "Melancholy Noise",
+      "slug": "melancholy-noise",
+      "artist": "AMODEYA",
+      "date": "2026-03-23",
+      "type": "EP",
+      "cover": "music/AMODEYA/MelancholyNoise/mel-noisecover.png",
+      "page": "music/AMODEYA/MelancholyNoise/index.html",
+      "alias": "AMODEYA",
+      "tags": [],
+      "genres": [],
+      "latestOrder": 1,
+      "listenUrl": "https://youtube.com/playlist?list=PLw5jf0DKWcGH_Jlc07NZ5gK2WZQebmZC_&si=5xNPdtvrx8cI2ziY",
+      "downloadUrl": "https://drive.google.com/drive/folders/1N9b0WK0HBiYzBqY-joT6PP_HIzdwvxEV?usp=sharing",
+      "tracks": [
+        {
+          "name": "Spring Sadness",
+          "duration": "2:32"
+        },
+        {
+          "name": "Erase",
+          "duration": "1:27"
+        },
+        {
+          "name": "By the Sea",
+          "duration": "2:02"
+        },
+        {
+          "name": "Alive Mean Nothing (feat. ARLEKYN)",
+          "duration": "1:42"
+        },
+        {
+          "name": "Scalpel",
+          "duration": "1:45"
+        },
+        {
+          "name": "Menatlly Unstabl333 (feat. adminGRL)",
+          "duration": "2:44"
+        },
+        {
+          "name": "My Grave",
+          "duration": "2:20"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Release | A-CORE</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body class="release-page">
+    <header class="release-header">
+      <div class="release-header-inner">
+        <div class="release-logo">A-CORE PROJECT</div>
+        <nav class="release-nav">
+          <a href="index.html#home">MAIN PAGE</a>
+          <a href="index.html#music">MUSIC</a>
+          <a href="index.html#aliases">ALIASES</a>
+          <a href="index.html#blog">BLOG</a>
+          <a href="index.html#etc">ETC</a>
+        </nav>
+      </div>
+    </header>
+
+    <div class="release-shell">
+      <main class="release-main" id="release-root">
+      <div class="release-hero">
+        <div class="release-art">
+          <img id="release-cover" src="" alt="Cover" />
+        </div>
+        <div class="release-info">
+          <h1 id="release-title">Release</h1>
+          <div class="release-artist" id="release-artist"></div>
+          <div class="release-meta" id="release-meta"></div>
+          <div class="release-actions" id="release-actions">
+            <a class="release-btn release-btn-listen" id="listen-btn" href="#" target="_blank" rel="noopener noreferrer">
+              LISTEN ON YOUTUBE
+            </a>
+            <div class="release-download-row">
+              <a class="release-btn release-btn-download" id="download-btn" href="#" target="_blank" rel="noopener noreferrer">
+                DOWNLOAD MP3 &amp; WAV
+              </a>
+              <span class="release-download-source">Google Drive</span>
+            </div>
+          </div>
+          <div class="release-description" id="release-desc"></div>
+        </div>
+      </div>
+
+        <div class="release-tracklist" id="release-tracklist"></div>
+        <div class="release-licensing" id="release-licensing"></div>
+      </main>
+    </div>
+
+    <script src="release_view.js"></script>
+  </body>
+</html>
